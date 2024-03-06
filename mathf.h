@@ -1,6 +1,6 @@
 /*! @file mathf.h
 	@brief Library of functions for computing integrals 
-	@author Paolo Gastaldo
+	@author Emanuele Caldirola
 
 	Details.
 */ 
