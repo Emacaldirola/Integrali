@@ -1,6 +1,6 @@
 /*! @file io.h
 	@brief Library of functions for I/O 
-	@author Paolo Gastaldo
+	@author Emanuele Caldirola
 
 	Details.
 */

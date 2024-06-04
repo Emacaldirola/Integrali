@@ -1,6 +1,6 @@
 /*! @file io.c
 	@brief Definitions of the functions declared in io.h
-	@author Paolo Gastaldo
+	@author Emanuele Caldirola
 
 	Details.
 */

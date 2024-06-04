@@ -1,6 +1,6 @@
 /** \file main.c
 	\brief Numerical integration of a polynomial
-	\author Paolo Gastaldo
+	\author Emanuele Caldirola
 
 	Details.
 */

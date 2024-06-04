@@ -1,6 +1,6 @@
 /** \file mathf.c
 	\brief defintions of the functions declared in mathf.h
-	\author Paolo Gastaldo
+	\author Emanuele Caldirola
 
 	Details.
 */
